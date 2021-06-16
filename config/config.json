@@ -4,7 +4,7 @@
     "output_mainHeader_file": "C:/04 Project/01. Xoontec/01_WatchMe/ProductionToolsWatchMe/gen_release/app/mainHeader.bin",
     "fw_type": "0x55010000",
     "fw_type_dfu": "0x55010101",
-    "fw_version": "0x01000001",
+    "fw_version": "0x01000002",
     "aes-key": "9a950f6c4fa1f919cb1e1539564723e2",
     "aes-iv-length": 16,
     "aes-iv": "45c4250f8d7985a1e74692c7dd247983"

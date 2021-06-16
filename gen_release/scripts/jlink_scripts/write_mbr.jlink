@@ -1,0 +1,9 @@
+si 1
+speed 4000
+connect
+r
+h
+erase
+loadfile "C:\04 Project\01. Xoontec\01_WatchMe\ProductionToolsWatchMe\gen_release\mbr\mbr.hex"
+g
+qc

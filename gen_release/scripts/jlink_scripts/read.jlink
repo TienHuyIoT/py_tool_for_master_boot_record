@@ -1,0 +1,7 @@
+si 1
+speed 4000
+connect
+r
+h
+savebin "C:\04 Project\01. Xoontec\01_WatchMe\ProductionToolsWatchMe\gen_release\final\image_entire_chip.bin", 0, 100000
+qc
